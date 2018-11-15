@@ -15,7 +15,7 @@ namespace TemplateMethod.Abstract
         }
         public GreetAbstract()
         {
-            _hello = "Hello";
+            _hello = "Helloooooo";
             _bye = "Good Bye";
         }
         protected abstract void Hello();

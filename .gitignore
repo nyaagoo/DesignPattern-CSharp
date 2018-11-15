@@ -3,3 +3,6 @@
 ################################################################################
 
 /TemplateMethod/TemplateMethod/bin/Debug/netcoreapp2.1
+/TemplateMethod/.vs/TemplateMethod/DesignTimeBuild
+/TemplateMethod/.vs/TemplateMethod/v15
+/TemplateMethod/TemplateMethod/TemplateMethod.csproj.user
